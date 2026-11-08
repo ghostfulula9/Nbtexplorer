@@ -202,4 +202,4 @@ This repository serves as the official landing page for NBTExplorer. The softwar
 **Get the most recent version of NBTExplorer today!**
 
 ---
-**Last updated:** 2026-11-08 09:59:04 UTC
+**Last updated:** 2026-11-08 16:37:00 UTC
